@@ -1,3 +1,5 @@
+__pycache__
+.ipynb_checkpoints/
+assignments/
 matops.py
 melb_data.csv
-__pycache__
